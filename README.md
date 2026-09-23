@@ -18,8 +18,8 @@ A lightweight, multi-threaded TCP port scanner written in pure Python — no ext
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/kushtailor/portscanner.git
+cd portscanner
 ```
 
 No `pip install` needed.
