@@ -96,8 +96,4 @@ This tool is for educational use and authorized security testing only. Only scan
 
 ## License
 
-No license is currently specified. If you plan to share this publicly, consider adding one (e.g., the MIT License) so others know how they may use the code.
-
-## Author
-
-Kush
+No license is currently specified. If you plan to share this publicly, consider adding one (e.g., the MIT License) so others know how they may use the code
